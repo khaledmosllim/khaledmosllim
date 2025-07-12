@@ -2,8 +2,6 @@
 
 I'm Khaled Mohamed, a WordPress developer who enjoys creating stuff that are **visually appealing.**
 
-You can reach me anytime using Telegram: **@KhaledMosllim**
-
 Looking forward to collaborate with you :)
 <!--
 **khaledmosllim/khaledmosllim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
